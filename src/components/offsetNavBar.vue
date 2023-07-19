@@ -164,7 +164,7 @@ export default{
         justify-content: flex-end;
         flex-direction: column;
         align-items: center;
-        height: 64vh;
+        height: 35vh;
     }
 
     .theme-toggle-btn
